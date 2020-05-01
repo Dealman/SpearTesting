@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpearTesting", "SpearTesting\SpearTesting.csproj", "{9DA98A20-A5C0-4D2B-860E-F28275DF4413}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DA98A20-A5C0-4D2B-860E-F28275DF4413}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DA98A20-A5C0-4D2B-860E-F28275DF4413}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DA98A20-A5C0-4D2B-860E-F28275DF4413}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DA98A20-A5C0-4D2B-860E-F28275DF4413}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D394146-FFAA-4660-A449-F8F14AE5F2F1}
+	EndGlobalSection
+EndGlobal
